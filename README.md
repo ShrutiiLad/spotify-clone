@@ -20,3 +20,6 @@ A responsive Spotify-inspired web music player built using HTML, CSS and Bootstr
 
 ## 🙌 Acknowledgement
 Inspired by Spotify UI
+
+## 🌐 Live Demo
+https://shrutilad.github.io/spotify-clone/
