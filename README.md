@@ -1,7 +1,7 @@
 
 # 🎵 Spotify Clone
 
-A responsive Spotify-inspired web music player built using HTML, CSS and PHP
+A responsive Spotify-inspired web music player built using HTML, CSS and Bootstrap
 
 ## 🚀 Features
 - Play/Pause music
@@ -10,9 +10,9 @@ A responsive Spotify-inspired web music player built using HTML, CSS and PHP
 - Responsive design
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- PHP
+- HTML5
+- CSS3
+- Bootstrap
 
 ## 📸 Screenshots
 (Add screenshots here)
