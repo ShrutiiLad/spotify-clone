@@ -14,9 +14,6 @@ A responsive Spotify-inspired web music player built using HTML, CSS and Bootstr
 - CSS3
 - Bootstrap
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📂 How to Run
 1. Clone the repository
 2. Open index.html in your browser
